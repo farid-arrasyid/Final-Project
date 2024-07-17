@@ -1,0 +1,7 @@
+Section "InputClass"
+        Identifier      "calibration"
+        MatchProduct    "WaveShare WS170120"
+        Option  "Calibration"   "109 3927 297 4057"
+        Option "SwapAxes"       "0"
+EndSection
+
